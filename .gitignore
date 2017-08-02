@@ -1,0 +1,3 @@
+/mnist/out
+/mnist/MNIST_data
+*.pyc
